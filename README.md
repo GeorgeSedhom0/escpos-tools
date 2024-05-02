@@ -1,3 +1,5 @@
+Same as the original repo but fixed https://github.com/receipt-print-hq/escpos-tools/issues/79
+
 ESC/POS command-line tools [![Build Status](https://travis-ci.org/receipt-print-hq/escpos-tools.svg?branch=master)](https://travis-ci.org/receipt-print-hq/escpos-tools)
 --------------
 
