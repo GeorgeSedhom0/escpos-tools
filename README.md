@@ -21,7 +21,7 @@ This project is requires:
 To install from source:
 
 ```bash
-git clone https://github.com/receipt-print-hq/escpos-tools
+git clone https://github.com/GeorgeSedhom0/escpos-tools
 cd escpos-tools
 composer install
 ```
